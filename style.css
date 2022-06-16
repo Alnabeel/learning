@@ -1,0 +1,22 @@
+.main3{
+    
+    width: 80%;
+}
+.main{
+    position: relative;
+}
+
+.main2{
+    /* width: 250px;
+    height: 150px; */
+    position: absolute;
+    right:1%;
+    top: 0px;
+}
+img{
+    width: 250px;
+    height: 150px;
+    /* float: right; */
+   
+
+}
